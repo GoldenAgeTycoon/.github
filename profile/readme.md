@@ -1,3 +1,3 @@
 # GoldenAgeTycoon Github
 
-## This is just a place used by agentv9 to host the code for various things we use for the server, feel free to take a look around at how everything works!
+This is a place used to host the code for various different things we use on the server, and just some other random things, feel free to look around!
