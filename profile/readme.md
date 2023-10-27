@@ -1,5 +1,7 @@
 # GoldenAgeTycoon Github
 
-This is a place used to host the code for various different things we use on the server, and just some other random things, feel free to look around!
+## Welcome to our github organization!
 
+ This is where we host all our custom mods and modified version of public mods! \
+ feel free to look at our verious repos, make requests or changes, and fork any project you want!
 
